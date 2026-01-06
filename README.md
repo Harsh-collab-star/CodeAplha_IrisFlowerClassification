@@ -1,4 +1,4 @@
-# CodeAplha_IrisFlowerClassification
+# CodeAlpha_IrisFlowerClassification
 
 # Iris Flower Classification
 
